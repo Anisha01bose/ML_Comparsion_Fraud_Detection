@@ -2,7 +2,7 @@ Datasets used: https://www.kaggle.com/datasets/sgpjesus/bank-account-fraud-datas
 https://www.kaggle.com/datasets/ammaraahmad/top-10-machine-learning-datasets?select=cell_samples.csv
 
 
-Fraud Detection with ML Classification Models
+###Fraud Detection with ML Classification Models
 This project aims to predict fraud using various machine learning models and classification techniques. It includes data preprocessing steps, feature engineering, and the implementation of multiple algorithms to compare performance.
 
 Table of Contents
